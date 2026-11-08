@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.png" alt="Oussama Boulmani — Software Engineering & Artificial Intelligence" width="100%" />  
+  <img src="./herder.png" alt="Oussama Boulmani — Software Engineering & Artificial Intelligence" width="100%" />  
 
 
   <strong>SOFTWARE ENGINEERING · ARTIFICIAL INTELLIGENCE · FULL-STACK DEVELOPMENT</strong>
