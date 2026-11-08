@@ -31,21 +31,84 @@
 <a href="#activity">Activity</a>  • 
 <a href="#connect">Contact</a>
 </div>
-<!-- ======================================================== -->
-<!-- 02 — ABOUT                                               -->
-<!-- ======================================================== --><a id="about"></a>
-01 / About Me
-<!-- ABOUT IMAGE: Add your illustration as about.png. -->
-<p align="center">
-  <img src="./about.png" width="100%" alt="Artificial Intelligence, Software Engineering and Computer Vision — About Oussama" />
-</p>I'm Oussama Boulmani, a Software Engineering and Artificial Intelligence engineering student at the Faculty of Sciences and Techniques (FST), Errachidia, Morocco.
 
-I enjoy building practical software solutions and exploring how AI can improve real-world systems. My interests include Machine Learning, Deep Learning, Computer Vision, Graph Neural Networks (GNNs), RAG, and full-stack web development.
-- 🎓 Education: Engineering Cycle in Software Engineering & AI (2024–2027)
-- 🧠 AI interests: Machine Learning · CNN · GNN · Computer Vision · RAG
-- 💻 Development: React · Next.js · Node.js · Express · TypeScript · Python
-- 🎯 Current goal: 6-month PFE internship starting February 2027
-- 📍 Location: Morocco
+<!-- ============================================== -->
+<!--                 01 / ABOUT ME                  -->
+<!-- ============================================== -->
+
+<a name="about"></a>
+
+<h2>01 / About Me</h2>
+
+<div align="center">
+  <img
+    src="./about.png"
+    width="100%"
+    alt="Oussama Boulmani - Software Engineering & AI"
+  />
+</div>
+
+<br/>
+
+<p>
+  I'm <b>Oussama Boulmani</b>, a Software Engineering & Artificial
+  Intelligence engineering student at FST Errachidia, Morocco.
+</p>
+
+<p>
+  I enjoy building practical software solutions and exploring how
+  Artificial Intelligence can improve real-world systems.
+  My interests include <b>Machine Learning, Deep Learning,
+  Computer Vision, Graph Neural Networks (GNNs), RAG</b>,
+  and <b>Full-Stack Web Development</b>.
+</p>
+
+<h3>👨‍💻 Professional Overview</h3>
+
+<table width="100%">
+  <tr>
+    <th align="left" width="25%">Category</th>
+    <th align="left">Details</th>
+  </tr>
+  <tr>
+    <td>🎓 <b>Education</b></td>
+    <td>Engineering Cycle — Software Engineering & AI (2024–2027)</td>
+  </tr>
+  <tr>
+    <td>🧠 <b>AI Interests</b></td>
+    <td>Machine Learning · CNN · GNN · Computer Vision · RAG</td>
+  </tr>
+  <tr>
+    <td>💻 <b>Development</b></td>
+    <td>React · Next.js · Node.js · Express · TypeScript · Python</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Current Goal</b></td>
+    <td>6-month PFE Internship — Starting February 2027</td>
+  </tr>
+  <tr>
+    <td>📍 <b>Location</b></td>
+    <td>Morocco 🇲🇦</td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://img.shields.io/badge/Open_to_PFE_2027-6366F1?style=for-the-badge"
+    alt="Open to PFE 2027"
+  />
+  <img
+    src="https://img.shields.io/badge/Software_Engineering-8B5CF6?style=for-the-badge"
+    alt="Software Engineering"
+  />
+  <img
+    src="https://img.shields.io/badge/Artificial_Intelligence-3B82F6?style=for-the-badge"
+    alt="Artificial Intelligence"
+  />
+</div>
+
 
 <!-- ======================================================== -->
 <!-- 03 — PROJECTS                                            -->
@@ -101,15 +164,66 @@ I enjoy building practical software solutions and exploring how AI can improve r
     <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Browse all projects" />
   </a>
 </p>
-<!-- ======================================================== -->
-<!-- 04 — EXPERIENCE                                          -->
-<!-- ======================================================== --><a id="experience"></a>
-03 / Professional Experience
-💼 Full-Stack Development Intern (PFA) — Barid Al Maghrib
-July – September 2026
-- Designed and developed a parcel management platform with client, commercial, and administrative spaces.
-- Implemented the full-stack solution with React, Node.js/Express, and PostgreSQL.
-- Developed a Random Forest model to predict parcel delivery times.
+
+<!-- ============================================== -->
+<!--         03 / PROFESSIONAL EXPERIENCE           -->
+<!-- ============================================== -->
+
+<a name="experience"></a>
+
+<h2>03 / Professional Experience</h2>
+
+<h3>💼 Internship Experience</h3>
+
+<table width="100%">
+  <tr>
+    <th align="left">Period</th>
+    <th align="left">Position</th>
+    <th align="left">Organization</th>
+  </tr>
+  <tr>
+    <td><b>Jul – Sep 2026</b></td>
+    <td>
+      <b>Full-Stack Developer Intern</b><br/>
+      PFA Internship
+    </td>
+    <td><b>Barid Al Maghrib</b></td>
+  </tr>
+</table>
+
+<br/>
+
+<h3>🚀 Project — Parcel Management Platform</h3>
+
+<p>
+  Designed and developed a full-stack platform for managing
+  parcel collection and shipment operations.
+</p>
+
+<ul>
+  <li>
+    <b>Full-Stack Development:</b> Built customer, commercial
+    back-office and administrator interfaces.
+  </li>
+  <li>
+    <b>Backend & Database:</b> Integrated application
+    functionality using Node.js, Express and PostgreSQL.
+  </li>
+  <li>
+    <b>Machine Learning:</b> Developed a Random Forest model
+    to estimate delivery times based on distance, parcel
+    weight and network workload.
+  </li>
+</ul>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,python&theme=dark"
+       height="35" alt="Tech Stack" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ML-Random_Forest-8B5CF6?style=flat-square"
+       alt="Random Forest" />
+</p>
+
 
 <!-- ======================================================== -->
 <!-- 05 — TECH STACK                                          -->
@@ -132,18 +246,58 @@ Databases & Tools
 
 <!-- ======================================================== -->
 <!-- 06 — EDUCATION & COMMUNITY                               -->
-<!-- ======================================================== --><a id="education"></a>
-05 / Education & Community
-Period	Qualification	Institution
-2024–2027	Engineering Cycle — Software Engineering & AI	FST Errachidia
-2021–2024	DEUST — Mathematics, Computer Science & Physics	FST Errachidia
-2020–2021	Baccalaureate — Physical Sciences	Lycée Ibrahim ibn alidham, Tinghir
+<!-- ======================================================== -->
+<a id="education"></a>
 
+<!-- ============================================== -->
+<!--            05 / EDUCATION & COMMUNITY          -->
+<!-- ============================================== -->
 
-Activities
-- ARTWARE Club: Vice media; participation in club activities.
-- Hult Prize: Participated in an international innovation and entrepreneurship competition.
-- Game of Code — INSIAS Rabat: Solved algorithmic problems as part of a team under time constraints.
+<a name="education"></a>
+
+<h2>05 / Education & Community</h2>
+
+<h3>🎓 Academic Background</h3>
+
+<table width="100%">
+  <tr>
+    <th align="left">Period</th>
+    <th align="left">Qualification</th>
+    <th align="left">Institution</th>
+  </tr>
+  <tr>
+    <td><b>2024–2027</b></td>
+    <td>
+      <b>Engineering Cycle</b><br/>
+      Software Engineering & Artificial Intelligence
+    </td>
+    <td>FST Errachidia, Morocco</td>
+  </tr>
+  <tr>
+    <td><b>2021–2024</b></td>
+    <td>
+      <b>DEUST</b><br/>
+      Mathematics, Computer Science & Physics
+    </td>
+    <td>FST Errachidia, Morocco</td>
+  </tr>
+  <tr>
+    <td><b>2020–2021</b></td>
+    <td>
+      <b>Baccalaureate</b><br/>
+      Physical Sciences
+    </td>
+    <td>Lycée Ibrahim ibn Alidham, Tinghir</td>
+  </tr>
+</table>
+
+<br/>
+
+<h3>🤝 Community & Activities</h3>
+
+- **ARTWARE Club** — Vice Media, club activities.
+- **Hult Prize** — Innovation and entrepreneurship competition.
+- **Game of Code — INSIAS Rabat** — Team-based algorithmic problem-solving competition.
 
 <!-- ======================================================== -->
 <!-- 07 — GITHUB ACTIVITY                                     -->
