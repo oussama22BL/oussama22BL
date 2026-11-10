@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./herder.png" alt="Oussama Boulmani — Software Engineering & Artificial Intelligence" width="100%" />  
+  <img src="./header" alt="Oussama Boulmani — Software Engineering & Artificial Intelligence" width="100%" />  
 
 
   <strong>SOFTWARE ENGINEERING · ARTIFICIAL INTELLIGENCE · FULL-STACK DEVELOPMENT</strong>
@@ -42,7 +42,7 @@
 
 <div align="center">
   <img
-    src="./about.png"
+    src="./about"
     width="100%"
     alt="Oussama Boulmani - Software Engineering & AI"
   />
@@ -351,4 +351,4 @@ Databases & Tools
   <!-- 09 — FOOTER IMAGE                                      -->
   <!-- Add your custom bottom banner as footer.png.           -->
   <!-- ====================================================== -->
-  <img src="./footer.png" width="100%" alt="Oussama Boulmani — Building intelligent solutions with code" /></div>
+  <img src="./footer" width="100%" alt="Oussama Boulmani — Building intelligent solutions with code" /></div>
